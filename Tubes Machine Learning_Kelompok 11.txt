@@ -1,0 +1,30 @@
+TUGAS BESAR MACHINE LEARNING
+BY KELOMPOK 11
+
+DETEKSI WEB PAGE PHISHING BERDASARKAN FITUR URL DENGAN METODE RANDOM FOREST DAN LONG SHORT TERM MEMORY (LSTM)
+
+Anggota Kelompok :
+1. Ihsan Kamil (1217070031)
+   - Ketua Kelompok
+   - Pencarian topik tugas besar
+   - Moderator
+   - Record & Upload video
+   - Materi (Latar Belakang, Tujuan, Metode, Kelebihan & Kekurangan, Kesimpulan)
+   - Menyiapkan PPT
+
+2. Ilham Muzhafar Azhar (1217070032)
+   - Pencarian topik tugas besar
+   - Membuat program Hasil metrik evaluasi
+   - Future Works
+   - Share screen presentasi
+   - Presentasi
+
+3. Zidan Aditya (1217070089)
+   - Pencarian topik tugas besar
+   - Pencarian dataset
+   - Pengelompokkan dataset
+   - Presentasi
+   - Pengujian dataset
+
+Link Dataset : https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
+Link Youtube : https://youtu.be/Fy5oi_xwA5c
